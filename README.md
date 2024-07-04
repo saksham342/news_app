@@ -21,7 +21,7 @@ This Python script fetches and displays news articles using the NewsAPI based on
     ```
 2. Navigate to the project directory:
     ```
-    cd news-fetcher
+    cd news_app
     ```
 3. Install the required library:
     ```
@@ -33,6 +33,7 @@ This Python script fetches and displays news articles using the NewsAPI based on
 1. Replace `"your_api_key_here"` with your actual NewsAPI key in the `main_function()`:
     ```python
     my_api_key = "your_api_key_here"
+    Regsiter and get your api key: https://newsapi.org
     ```
 2. Run the script:
     ```
