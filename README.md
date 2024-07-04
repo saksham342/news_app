@@ -17,7 +17,7 @@ This Python script fetches and displays news articles using the NewsAPI based on
 
 1. Clone the repository:
     ```
-    git clone https://github.com/saksham342/news-app.git
+    git clone https://github.com/saksham342/news_app.git
     ```
 2. Navigate to the project directory:
     ```
